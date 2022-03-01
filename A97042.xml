@@ -1,0 +1,166 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from Sir William Waller, a member of the House of Commons, to the Right Honorable, Robert Earl of Essex his excellencie; of a great victory he obtained at Malmsbury, 23. Martii, in the county of Wilts: with the names of divers of the commanders in chief that he took, with 300 foot, a troop of horse, and many peeces of ordnance. Also a true relation of Sergeant Major Burghells valour, who went into the enemies quarters at Sherston, routed them, took twenty five prisoners, one captain, two lieutenants, one quarter-master, killed eight, and took forty or fifty horses and arms, without the losse of one man. Ordered by the Commons in Parliament, that this letter be forthwith printed and published: H: Elsynge, Cl. Parl. D. Com.</title>
+            <author>Waller, William, Sir, 1597?-1668.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A97042</idno>
+            <idno type="STC">Wing W542</idno>
+            <idno type="STC">Thomason E94_12</idno>
+            <idno type="STC">ESTC R5590</idno>
+            <idno type="EEBO-CITATION">99872868</idno>
+            <idno type="PROQUEST">99872868</idno>
+            <idno type="VID">155782</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A97042)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155782)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 16:E94[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from Sir William Waller, a member of the House of Commons, to the Right Honorable, Robert Earl of Essex his excellencie; of a great victory he obtained at Malmsbury, 23. Martii, in the county of Wilts: with the names of divers of the commanders in chief that he took, with 300 foot, a troop of horse, and many peeces of ordnance. Also a true relation of Sergeant Major Burghells valour, who went into the enemies quarters at Sherston, routed them, took twenty five prisoners, one captain, two lieutenants, one quarter-master, killed eight, and took forty or fifty horses and arms, without the losse of one man. Ordered by the Commons in Parliament, that this letter be forthwith printed and published: H: Elsynge, Cl. Parl. D. Com.</title>
+                  <author>Waller, William, Sir, 1597?-1668.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edw. Husbands, and are to be sold at his shop in the middle Temple,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>March 28. 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Burghell, --  Sergeant Major --  Early works to 1800.</term>
+               <term>Essex, Robert Devereux, --  Earl of, 1591-1646 --  Early works to 1800.</term>
+               <term>Malmesbury (Wiltshire) --  Siege, 1643 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155782:1" rendition="simple:additions"/>
+            <p>A LETTER From Sir <hi>William Waller, A Member of the Houſe of Commons,</hi> To the Right Honorable, ROBERT Earl of ESSEX his Excellencie; OF A GREAT VICTORY he obtained at <hi>Malmsbury, 23. Martii,</hi> in the County of WILTS:</p>
+            <p>With the Names of divers of the Commanders in chief that he took, with 300 foot, a Troop of horſe, and many Peeces of Ordnance.</p>
+            <p>Alſo a true Relation of Sergeant Major <hi>Burghells</hi> valour, who went into the Enemies quarters at <hi>Sherſton,</hi> routed them, took twenty five priſoners, one Captain, two Lieutenants, one quarter<g ref="char:EOLhyphen"/>maſter, killed eight, and took forty or fifty Horſes and Arms, without the loſſe of one man.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Ordered by the Commons in Parliament, That this Letter be forth<g ref="char:EOLhyphen"/>with printed and publiſhed:</p>
+                        <closer>
+                           <signed>H: Elſynge, Cl. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Edw. Husbands,</hi> and are to be ſold at his ſhop in the middle Temple. March 28. 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:155782:2"/>
+            <pb n="3" facs="tcp:155782:2"/>
+            <head>A Letter from Sir William Waller, a Member of the Houſe of Commons, to the Right Honorable, Robert Earl of Eſſex his Excellencie.</head>
+            <opener>
+               <salute>My moſt honored LORD;</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Have had the honour to re<g ref="char:EOLhyphen"/>ceive two Letters from your Excellency; This met me at <hi>Malmesbury,</hi> where I was engaged in a hot ſervice for ſo long as it laſted. I ſate down before the place ye<g ref="char:EOLhyphen"/>ſterday a little after Noon: At my firſt comming their horſe ſhewed themſelves in a bravado under the ſide of a VVood, about a quarter of a mile from the town,
+<pb n="4" facs="tcp:155782:3"/> but upon the firſt proffer of a charge they retired haſtily towards Ciceſter-way be<g ref="char:EOLhyphen"/>fore we could come up to them; where upon we fell to worke with the Towne, which is the ſtrongeſt in land ſcituation that ever I ſaw: In the skirts of the outer Town there were Gardens waled in with dry ſtone wall, from whence the enemy played upon us as we came on, but with in halfe an houre we beat them out of thoſe ſtrengths, and entered the outer or lower Town with our horſe and foot and kept poſſeſion of it, ſhe enemy withdraw<g ref="char:EOLhyphen"/>ing into the upper, where they had bin at, coſt to fortifie; We fell on upon the the weſt Port, in which they had caſt up a breaſt work, and planted a peece of Ordnance: The ſtreet ſo narrow at the upper end next the work, that not above four could march in breaſt; this buſineſſe coſt hot
+<pb n="5" facs="tcp:155782:3"/> water: As we fell on we advanced two Drakes, and under that favour our mus<g ref="char:EOLhyphen"/>queteers poſſeſſed themſelves of ſome houſes neer the Port, from whence we galled the enemy very much; If our men had come out roundly we had then car<g ref="char:EOLhyphen"/>ryed it, but the falling of ſome cooled the reſt; And ſo the firſt aſſault failed, after a fight of neer halfe an hour, whilſt we were preparing to renew the aſſault, the enemy ſhewed himſelf neer the Town, vvith ſeaven, or (as ſome ſay) ten troops of horſe; vvhereupon Sir <hi>Arthur Hazel<g ref="char:EOLhyphen"/>rig</hi> fell out upon them vvith eight troops, but upon his approach they retired ſpee<g ref="char:EOLhyphen"/>dily. In the mean time before his return that night, vve gave on again upon the Tovvn, and had a very hot fight, vvhich after an hours continuance at the leaſt, vve vvere fain to give over for vvant of
+<pb n="6" facs="tcp:155782:4"/> Ammunition, the main part vvhereof vvas unluckily ſtayed behind by a miſ<g ref="char:EOLhyphen"/>chance of the carriage, and could not come up till the next morning: I vvas in ſuch vvant of powder, and eſpecialy ball: that if the enemy had falen out upon me, I could have maintained a very ſmall fight, and I had no notice here of from the Officer, untill I vvas reduced to this ſtraight; VVhereupon I thought fit to dravv off the Drakes that night, or rather morning, for it was neer two of the clock; The better to effect this, and to prevent the hazard of the Enemies ſally, I cauſed all the Drums to beat, and Trumpets to ſound, drawing both horſe and foot out into the ſtreets: As in preparation to an Aſſault, vvith all the ſtrength I had; which gave the Enemy ſuch apprehen<g ref="char:EOLhyphen"/>ſion, that immediately they ſent out a
+<pb n="7" facs="tcp:155782:4"/> Drum, and craved a Parly. They yeel<g ref="char:EOLhyphen"/>ded upon quarter, and gave me entrance about ſeven or eight of the clock that morning. They were about three hun<g ref="char:EOLhyphen"/>dred foot, and a Troop of horſe, but the horſe I related formerly ſhifted for them<g ref="char:EOLhyphen"/>ſelves upon our firſt coming. VVe have priſoners, Colonell <hi>Harbert Lunceford,</hi> Colonell <hi>Cook,</hi> Lieutenant Colonell <hi>Da<g ref="char:EOLhyphen"/>bridgecourt,</hi> Sergeant Major <hi>Finch,</hi> ſix Captains, ſix Lieutenants, ſix Enſignes, one Cornet, and four quartermaſters, beſides ordinary Souldiers, part vvherof vve mean to ſend to <hi>Glouceſter,</hi> the reſt to <hi>Briſtoll.</hi>
+            </p>
+            <p>This morning, in the name of God, I purpoſe to march to Ciceſter, where there are ſeven hun<g ref="char:EOLhyphen"/>dred Foot, and three hundred Horſe and Dra<g ref="char:EOLhyphen"/>goones.</p>
+            <p>I muſt not omit to repreſent. Major <hi>Burghells</hi> merit to your Excellencie, who on the 19. of
+<pb n="8" facs="tcp:155782:5"/> this preſent, having information at Bath, that there was a party of two hundred and forty Horſe, Plundring Sir <hi>Edward Hungerfords</hi> houſe; drew out a hundred Horſe and marched thither but finding they were gone from thence and quartered at Sherſton a place about three myles from Malmesbury; he purſued them thither, and about twelve of the clock that night, falling into their quarters, Routed them, took twenty five Priſoners; whereof there was one Cap<g ref="char:EOLhyphen"/>tain, two Lievtenants, and one Quarter-maſter, ſix or eight ſlain upon the plaee, and three dead ſince, between forty and fifty horſes taken, with ſome Arms, without the loſſe or hurt of any one man of our own. I ſhall upon all occaſi<g ref="char:EOLhyphen"/>ons certainly advertiſe your Excellencie of what paſſeth here: I commit your Excellencie to Gods heavenly protection, and reſt,</p>
+            <closer>
+               <salute>MY LORD,</salute> 
+               <signed>Your Excellencies d<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> humble ſervant, <hi>WILLIAM WALLER.</hi>
+               </signed> 
+               <dateline>MALMSBURY, <date>23 Martii, 1642</date>
+               </dateline>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
